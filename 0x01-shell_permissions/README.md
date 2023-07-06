@@ -21,3 +21,5 @@ script that sets the permission to the file hello as follows:
 	Other users: all the permissions
 #9-John_Doe:
 script that sets the mode of the file hello to -rwxr-x-wx
+#10-mirror_permissions:
+script that sets the mode of the file hello the same as olleh’s mode.
